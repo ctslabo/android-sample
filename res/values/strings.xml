@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <string name="app_name">FullscreenTestSC02DforICS</string>
-    <string name="hello_world">背景を水色にして、フルスクリーンにします。\n\nナビゲーションバーも消えます（最小表示）\n\nタッチするとOSが自動的にナビゲーションバーを表示します。</string>
-    <string name="menu_settings">Settings</string>
-
-</resources>
